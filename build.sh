@@ -1,0 +1,1 @@
+gcc -o wm main.cpp -L/usr/X11/lib -lX11 -lstdc++
